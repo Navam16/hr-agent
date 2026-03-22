@@ -76,7 +76,7 @@ def get_groq_key() -> str:
 #    │   └── jane_smith.pdf
 #    └── .env
 #
-RESUME_FOLDER = Path("sample_resumes")
+RESUME_FOLDER = Path("resumes")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
